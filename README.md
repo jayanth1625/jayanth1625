@@ -34,7 +34,7 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/jayanth-katta-0744b7366/)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jayanth-katta-0744b7366/)
 
 ---
 
